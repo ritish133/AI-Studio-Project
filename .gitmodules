@@ -1,0 +1,18 @@
+[submodule "AI-Studio"]
+	path = AI-Studio
+	url = https://github.com/ritish133/AI-Studio
+[submodule "Travelocity"]
+	path = Travelocity
+	url = https://github.com/ritish133/AITravelPlanner
+[submodule "CreatorAI"]
+	path = CreatorAI
+	url = https://github.com/ritish133/CreatorAI
+[submodule "MockMate-AI"]
+	path = MockMate-AI
+	url = https://github.com/ritish133/AI-Mock-Interview
+[submodule "Formify"]
+	path = Formify
+	url = https://github.com/ritish133/Formify
+[submodule "Imagine-AI"]
+	path = Imagine-AI
+	url = https://github.com/sukantabhun/Imagine-AI-MERN
